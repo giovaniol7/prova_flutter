@@ -76,7 +76,6 @@ class _TelaCapturaInformacaoState extends State<TelaCapturaInformacao> {
                   color: Colors.white,
                   boxShadow: const [
                     BoxShadow(offset: Offset(0, 2), color: Colors.black38, blurRadius: 2)
-                    // changes position of shadow
                   ]),
               child: Form(
                   autovalidateMode: AutovalidateMode.onUserInteraction,
